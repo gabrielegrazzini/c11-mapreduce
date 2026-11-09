@@ -1,0 +1,3 @@
+Map reduce in C
+C11 threads and pipes
+fork pipe dup2 waitpid

@@ -1,0 +1,9 @@
+# Build products
+*.o
+*.a
+/examples/word_count/wc
+/examples/word_length/wl
+
+# Generated example output and logs
+*.mro
+*.log
